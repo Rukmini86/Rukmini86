@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @Rukmini86
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- A young-dumb 🤓 front end developer from Australia
+- I’m currently looking for Work
+- 👀 I’m interested in WEB developing
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 Reach me at rukminiyetukuri@gmail.com
+- Fun fact Tea tastes way better than Coffee | Change my mind!
 
 <!---
 Rukmini86/Rukmini86 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
